@@ -189,7 +189,7 @@ def app():
     col5.plotly_chart(fig6)
     
     #####################################################################
-    st.markdown('')
+    st.markdown('This wordcloud shows the most frequent words used in the titles of the listings')
     
     def make_wordcloud(words):
 
